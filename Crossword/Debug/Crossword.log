@@ -1,0 +1,69 @@
+﻿Compilación iniciada a las 17/01/2016 2:14:04 PM.
+     1>Proyecto "C:\Users\user\Documents\Visual Studio 2012\Projects\Crossword\Crossword\Crossword.vcxproj" en el nodo 2 (Build destinos).
+     1>InitializeBuildStatus:
+         Se creará "Debug\Crossword.unsuccessfulbuild" porque se especificó "AlwaysCreate".
+       ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc110.pdb" /Gd /TC /analyze- /errorReport:prompt main.c
+         main.c
+     1>c:\users\user\documents\visual studio 2012\projects\crossword\crossword\main.c(70): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 11.0\vc\include\string.h(110) : vea la declaración de 'strcpy'
+     1>c:\users\user\documents\visual studio 2012\projects\crossword\crossword\main.c(92): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 11.0\vc\include\string.h(110) : vea la declaración de 'strcpy'
+     1>c:\users\user\documents\visual studio 2012\projects\crossword\crossword\main.c(54): warning C4101: 'option' : variable local sin referencia
+     1>c:\users\user\documents\visual studio 2012\projects\crossword\crossword\main.c(142): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 11.0\vc\include\string.h(110) : vea la declaración de 'strcpy'
+     1>c:\users\user\documents\visual studio 2012\projects\crossword\crossword\main.c(146): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 11.0\vc\include\string.h(110) : vea la declaración de 'strcpy'
+     1>c:\users\user\documents\visual studio 2012\projects\crossword\crossword\main.c(150): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 11.0\vc\include\string.h(110) : vea la declaración de 'strcpy'
+     1>c:\users\user\documents\visual studio 2012\projects\crossword\crossword\main.c(154): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 11.0\vc\include\string.h(110) : vea la declaración de 'strcpy'
+     1>c:\users\user\documents\visual studio 2012\projects\crossword\crossword\main.c(158): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 11.0\vc\include\string.h(110) : vea la declaración de 'strcpy'
+     1>c:\users\user\documents\visual studio 2012\projects\crossword\crossword\main.c(160): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 11.0\vc\include\stdio.h(290) : vea la declaración de 'scanf'
+     1>c:\users\user\documents\visual studio 2012\projects\crossword\crossword\main.c(163): warning C4996: 'gets': This function or variable may be unsafe. Consider using gets_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 11.0\vc\include\stdio.h(261) : vea la declaración de 'gets'
+     1>c:\users\user\documents\visual studio 2012\projects\crossword\crossword\main.c(165): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 11.0\vc\include\string.h(110) : vea la declaración de 'strcpy'
+     1>c:\users\user\documents\visual studio 2012\projects\crossword\crossword\main.c(138): warning C4101: 'age' : variable local sin referencia
+     1>c:\users\user\documents\visual studio 2012\projects\crossword\crossword\main.c(208): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 11.0\vc\include\stdio.h(218) : vea la declaración de 'fopen'
+     1>c:\users\user\documents\visual studio 2012\projects\crossword\crossword\main.c(213): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 11.0\vc\include\stdio.h(237) : vea la declaración de 'fscanf'
+     1>c:\users\user\documents\visual studio 2012\projects\crossword\crossword\main.c(215): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 11.0\vc\include\string.h(110) : vea la declaración de 'strcpy'
+     1>c:\users\user\documents\visual studio 2012\projects\crossword\crossword\main.c(220): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 11.0\vc\include\string.h(110) : vea la declaración de 'strcpy'
+     1>c:\users\user\documents\visual studio 2012\projects\crossword\crossword\main.c(204): warning C4101: 'line' : variable local sin referencia
+     1>c:\users\user\documents\visual studio 2012\projects\crossword\crossword\main.c(230): warning C4553: '==' : el operador no tiene efecto; ¿ha pensado en '='?
+     1>c:\users\user\documents\visual studio 2012\projects\crossword\crossword\main.c(234): warning C4553: '==' : el operador no tiene efecto; ¿ha pensado en '='?
+     1>c:\users\user\documents\visual studio 2012\projects\crossword\crossword\main.c(253): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 11.0\vc\include\stdio.h(290) : vea la declaración de 'scanf'
+     1>c:\users\user\documents\visual studio 2012\projects\crossword\crossword\main.c(260): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 11.0\vc\include\stdio.h(290) : vea la declaración de 'scanf'
+     1>c:\users\user\documents\visual studio 2012\projects\crossword\crossword\main.c(272): warning C4553: '==' : el operador no tiene efecto; ¿ha pensado en '='?
+     1>c:\users\user\documents\visual studio 2012\projects\crossword\crossword\main.c(276): warning C4553: '==' : el operador no tiene efecto; ¿ha pensado en '='?
+     1>c:\users\user\documents\visual studio 2012\projects\crossword\crossword\main.c(290): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 11.0\vc\include\stdio.h(290) : vea la declaración de 'scanf'
+     1>c:\users\user\documents\visual studio 2012\projects\crossword\crossword\main.c(294): warning C4996: 'gets': This function or variable may be unsafe. Consider using gets_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 11.0\vc\include\stdio.h(261) : vea la declaración de 'gets'
+     1>c:\users\user\documents\visual studio 2012\projects\crossword\crossword\main.c(295): warning C4996: 'strupr': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _strupr. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 11.0\vc\include\string.h(255) : vea la declaración de 'strupr'
+     1>c:\users\user\documents\visual studio 2012\projects\crossword\crossword\main.c(302): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 11.0\vc\include\stdio.h(218) : vea la declaración de 'fopen'
+     1>c:\users\user\documents\visual studio 2012\projects\crossword\crossword\main.c(303): warning C4129: 'P' : secuencia de escape de carácter no reconocida
+     1>c:\users\user\documents\visual studio 2012\projects\crossword\crossword\main.c(356): warning C4101: 'cont' : variable local sin referencia
+     1>c:\users\user\documents\visual studio 2012\projects\crossword\crossword\main.c(383): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 11.0\vc\include\stdio.h(290) : vea la declaración de 'scanf'
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\user\Documents\Visual Studio 2012\Projects\Crossword\Debug\Crossword.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:\Users\user\Documents\Visual Studio 2012\Projects\Crossword\Debug\Crossword.pdb" /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\user\Documents\Visual Studio 2012\Projects\Crossword\Debug\Crossword.lib" /MACHINE:X86 Debug\main.obj
+         Crossword.vcxproj -> C:\Users\user\Documents\Visual Studio 2012\Projects\Crossword\Debug\Crossword.exe
+       FinalizeBuildStatus:
+         Se eliminará el archivo "Debug\Crossword.unsuccessfulbuild".
+         Aplicando tarea Touch a "Debug\Crossword.lastbuildstate".
+     1>Compilación del proyecto terminada "C:\Users\user\Documents\Visual Studio 2012\Projects\Crossword\Crossword\Crossword.vcxproj" (Build destinos).
+
+Compilación correcta.
+
+Tiempo transcurrido 00:00:01.09

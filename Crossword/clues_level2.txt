@@ -1,0 +1,13 @@
+1. dispositivo que explora el cuerpo humano, un espacio, imágenes o documentos.
+2. dispositivo de salida (interfaz), que muestra datos o información al usuario.
+3. Universal Serial Bus, bus estándar que define los cables, conectores y protocolos usados en un bus para conectar
+4. también conocida como placa madre o placa principal
+5. Componente electrónico donde se realizan los procesos lógicos.
+6. dispositivo de almacenamiento de datos que emplea un sistema de grabación magnética para almacenar archivos digitales.
+7. bastidor o Caja de computadora.
+8. aparato que se usa para transformar las ondas sonoras en energía eléctrica y viceversa en procesos de grabación y reproducción de sonido
+9. dispositivo periférico del ordenador que permite producir una gama permanente de textos o gráficos de documentos
+10(@). memoria de trabajo de computadoras para el sistema operativo, los programas y la mayor parte del software
+11(#). dispositivo o periférico de entrada, en parte inspirado en el teclado de las máquinas de escribir
+12($). Sirve para enviar la señal moduladora mediante otra señal llamada portadora.
+13(+). utilizado para la reproducción de sonido.
